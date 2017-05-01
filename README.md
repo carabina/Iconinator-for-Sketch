@@ -33,7 +33,7 @@ Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'iCons' and instal
 # Usage
 
 1. Select an artboard with the icon that you want to generate
-2. Click the `plugins` on the menu
+2. Click the `plugins` menu
 3. Find and click `iCons`
 4. Tada 🎉
 
