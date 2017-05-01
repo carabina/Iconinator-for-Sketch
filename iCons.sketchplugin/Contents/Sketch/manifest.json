@@ -3,7 +3,7 @@
   "commands" : [
     {
       "script" : "script.cocoascript",
-      "name" : "Alternator",
+      "name" : "iCons",
       "handlers" : {
         "run" : "onRun"
       },
@@ -11,14 +11,14 @@
     }
   ],
   "menu" : {
-    "title" : "Alternator",
+    "title" : "iCons",
     "items" : [
       "com.bohemiancoding.sketch.runscriptidentifier"
     ]
   },
-  "identifier" : "com.example.sketch.105d6b18-aaf8-4198-a276-ed614d3acfde",
+  "identifier" : "com.example.sketch.c8ba3311-784f-43a5-8d1e-1fca561e0d22",
   "version" : "1.0",
   "description" : "",
   "authorEmail" : "",
-  "name" : "Alternator"
+  "name" : "iCons"
 }

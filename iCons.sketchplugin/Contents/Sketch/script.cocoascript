@@ -147,5 +147,6 @@ function configureExportOptionsForLayer(layer) {
     [[layer exportOptions] addExportFormat]
 }
 
+
           };
           
