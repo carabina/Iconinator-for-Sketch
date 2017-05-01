@@ -28,7 +28,7 @@ Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'iCons' and instal
 
 # Features
 
-- Generate icons for iOS, iTunes, watchOS
+- Generate app icons artwork for iOS, iTunes, watchOS and more
 
 # Usage
 
