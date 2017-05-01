@@ -24,7 +24,7 @@ Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'Iconinator' and i
 
 # Updating
 
-1. After updating Iconinator (whether manually or via Sketch Toolbox) restart Sketch to receive goodness.
+- After updating Iconinator (whether manually or via Sketch Toolbox) restart Sketch to receive goodness.
 
 # Features
 
