@@ -7,7 +7,7 @@ iCons is a Sketch plugin that provides a means to generate a set of App icons fo
 :package: [Download Plugin (.zip)]() | :star: [Changelog]() | 
 
 
-![](iCons.png)
+![](Images/iCons.png)
 
 # Installation
 
