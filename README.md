@@ -5,7 +5,6 @@
 iCons is a Sketch plugin that provides a means to create a set of App icons for iOS.
 
 :package: [Download Plugin (.zip)]() | :star: [Changelog]() | 
---- | --- | ---
 
 
 ![](iCons.png)
