@@ -1,5 +1,3 @@
-          var onRun = function(context) {
-          var onRun = function(context) {
 var iTunesSizes = [NSArray arrayWithObjects: 512, nil]
 var iOSSizes = [NSArray arrayWithObjects: 83.5, 76, 60, 40, 29, 20, nil]
 var watchOSSizes = [NSArray arrayWithObjects: 98, 86, 27.5, 24, nil]
@@ -102,12 +100,12 @@ function createIconsWithSizes(sizeArray, originalIcon, fromX, fromY, spacing) {
         var icon = scaleIcon(originalIcon, newSize, iconName)
         configureExportOptionsForLayer(icon)
 
-        if (newSize == 512) { 
+        if (newSize == 512) {
             [[icon absoluteRect] setRulerX:fromX]
             [[icon absoluteRect] setRulerY:fromY]
 
             newY = [[icon absoluteRect] y]
-        } 
+        }
         else {
             if (maxX == 0) {
                maxX = fromX + 512 + spacing
@@ -147,6 +145,3 @@ function configureExportOptionsForLayer(layer) {
     [[layer exportOptions] addExportFormat]
     [[layer exportOptions] addExportFormat]
  }
-};
-          };
-          
