@@ -1,24 +1,20 @@
 {
-  "author" : "",
+  "author" : "Agisilaos Tsaraboulidis",
   "commands" : [
     {
-      "script" : "script.cocoascript",
+      "script" : "iCons.cocoascript",
       "name" : "iCons",
-      "handlers" : {
-        "run" : "onRun"
-      },
-      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
-    }
+      "identifier" : "iCons"
+      }
   ],
   "menu" : {
-    "title" : "iCons",
     "items" : [
-      "com.bohemiancoding.sketch.runscriptidentifier"
+      "iCons"
     ]
   },
-  "identifier" : "com.example.sketch.c8ba3311-784f-43a5-8d1e-1fca561e0d22",
+  "identifier" : "net.agisilaos.iCons",
   "version" : "1.0",
-  "description" : "",
-  "authorEmail" : "",
+  "description" : "Sketch plugin for generating set of app icon artwork for iOS",
+  "authorEmail" : "agtsaraboulidis@gmail.com",
   "name" : "iCons"
 }
