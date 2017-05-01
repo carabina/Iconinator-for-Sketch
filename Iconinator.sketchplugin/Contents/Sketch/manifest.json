@@ -1,24 +1,20 @@
 {
-  "author" : "",
+  "author" : "Agisilaos Tsaraboulidis",
   "commands" : [
     {
-      "script" : "script.cocoascript",
+      "script" : "Iconinator.cocoascript",
       "name" : "Iconinator",
-      "handlers" : {
-        "run" : "onRun"
-      },
-      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
-    }
+      "identifier" : "Iconinator"
+      }
   ],
   "menu" : {
-    "title" : "Iconinator",
     "items" : [
-      "com.bohemiancoding.sketch.runscriptidentifier"
+      "Iconinator"
     ]
   },
-  "identifier" : "com.example.sketch.c4414213-9406-4e29-a567-be768080fb62",
+  "identifier" : "net.agisilaos.Iconinator",
   "version" : "1.0",
-  "description" : "",
-  "authorEmail" : "",
+  "description" : "Sketch plugin for generating set of app icon artwork for iOS",
+  "authorEmail" : "agtsaraboulidis@gmail.com",
   "name" : "Iconinator"
 }
