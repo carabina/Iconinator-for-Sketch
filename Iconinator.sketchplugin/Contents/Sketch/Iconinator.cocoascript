@@ -121,7 +121,6 @@ function createIconsWithSizes(sizeArray, originalIcon, fromX, fromY, spacing) {
                 newY = newMaxY + spacing
             }
         }
-
     }
 
     return newY
