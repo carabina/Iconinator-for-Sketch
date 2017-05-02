@@ -18,11 +18,19 @@ Install via  [Sketchpacks](https://sketchpacks.com/) by searching for Iconinator
   <img width="160" height="41" src="http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png">
 </a>
 
-### Method 2: Sketch Toolbox
+### Method 2: Sketch Runner - Reccomended
+
+Install via  [Sketch Runner](https://sketchrunner.com/) by searching for Iconinator for Sketch
+
+<a href="http://bit.ly/SketchRunnerWebsite">
+  <img width="160" height="41" src="http://bit.ly/RunnerBadgeBlue">
+</a>
+
+### Method 3: Sketch Toolbox
 
 Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'Iconinator' and install. Doing so will enable you to automatically receive any updates to Fluid without having to manually do so.
 
-### Method 3: Manually
+### Method 4: Manually
 
 1. Download the `.zip` above and extract it.
 2. Double-click `Iconinator.sketchplugin`.
