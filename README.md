@@ -10,12 +10,15 @@ Iconinator is a Sketch plugin that provides a means to generate a set of App ico
 ![](Images/logo.png)
 
 # Installation
+### Method 1: SketchPacks
 
-### Method 1: Sketch Toolbox
+[![Install PLUGIN NAME with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install PLUGIN NAME with Sketchpacks")](https://sketchpacks.com/agisilaos/Iconinator-for-Sketch)
+
+### Method 2: Sketch Toolbox
 
 Using [Sketch Toolbox](http://sketchtoolbox.com/), search for 'Iconinator' and install. Doing so will enable you to automatically receive any updates to Fluid without having to manually do so.
 
-### Method 2: Manually
+### Method 3: Manually
 
 1. Download the `.zip` above and extract it.
 2. Double-click `Iconinator.sketchplugin`.
