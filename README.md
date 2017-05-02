@@ -10,6 +10,7 @@ Iconinator is a Sketch plugin that provides a means to generate a set of App ico
 ![](Images/logo.png)
 
 # Installation
+
 ### Method 1: SketchPacks - Reccomended
 
 Install via  [Sketchpacks](https://sketchpacks.com/) by searching for Iconinator for Sketch
